@@ -1,0 +1,28 @@
+{
+  "@@locale": "ar",
+  "services": "الخدمات",
+  "serviceProviders": "مزودو الخدمة",
+  "chat": "الدردشة",
+  "account": "الحساب",
+  "location": "الموقع",
+  "orders": "الطلبات",
+  "support": "الدعم والمساعدة",
+  "settings": "الإعدادات",
+  "changeLanguage": "تغيير اللغة",
+    "searchHint": "ابحث عن خدمة...",
+    "servicesList": "قائمة الخدمات",
+    "homeCleaning": "تنظيف المنازل",
+    "plumbing": "السباكة",
+    "electricity": "الكهرباء",
+    "airConditioning": "التكييف",
+    "painting": "الطلاء",
+    "carpentry": "النجارة",
+     "darkMode": "الوضع الليلي",
+  "lightMode": "الوضع النهاري",
+    "home": "الرئيسية"
+  
+  
+  
+  
+
+}

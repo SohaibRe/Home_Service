@@ -1,0 +1,32 @@
+name: home_service
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0  # تحديث الإصدار إلى 0.17.0
+  image_picker: ^0.8.5+3
+  provider: ^6.0.0
+  shared_preferences: ^2.2.2
+  intl_utils: ^2.8.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - images/
+    - lib/l10n/

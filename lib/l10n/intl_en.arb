@@ -1,0 +1,26 @@
+{
+  "@@locale": "en",
+  "services": "Services",
+  "serviceProviders": "Service Providers",
+  "chat": "Chat",
+  "account": "Account",
+  "location": "Location",
+  "orders": "Orders",
+  "support": "Support & Help",
+  "settings": "Settings",
+  "changeLanguage": "Change Language",
+    "searchHint": "Search for a service...",
+  "servicesList": "Services List",
+  "homeCleaning": "Home Cleaning",
+  "plumbing": "Plumbing",
+  "electricity": "Electricity",
+  "airConditioning": "Air Conditioning",
+  "painting": "Painting",
+  "carpentry": "Carpentry",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+  "home": "Home"
+
+  
+  
+}
